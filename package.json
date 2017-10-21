@@ -1,5 +1,5 @@
 {
-  "name": "cldr-data-downloader",
+  "name": "cldr-data-downloader-test",
   "version": "0.3.2",
   "keywords": [
     "unicode",
@@ -35,7 +35,7 @@
     "test": "grunt"
   },
   "dependencies": {
-    "adm-zip": "0.4.4",
+    "adm-zip-test": "^0.4.9",
     "mkdirp": "0.5.0",
     "nopt": "3.0.x",
     "progress": "1.1.8",
